@@ -1,0 +1,8 @@
+cmake_minimum_required( "VERSION" 3.1 )
+project( "base_test" )
+set( "CMAKE_CXX_STANDARD" 11 )
+file( "GLOB_RECURSE" CPP_FILES "../CODE/*.cpp" "CODE/*.cpp" )
+add_executable( "base_test" ${CPP_FILES} )
+add_definitions( "-D_GLIBCXX_DEBUG" )
+file( "GLOB" INCLUDE_FOLDERS "../CODE/*[A-Z]/" )
+include_directories( ${INCLUDE_FOLDERS} )
