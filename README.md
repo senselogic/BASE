@@ -6,7 +6,7 @@ Base C++ library.
 
 ## Description
 
-Used as the basis for higher-level libraries, it provides simple cross-platform types for :
+As a basis for higher-level libraries, it provides simple cross-platform types for :
 
 *   Scalars
 *   Strings
