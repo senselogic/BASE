@@ -1,4 +1,4 @@
-![](https://github.com/senselogic/BASE/blob/master/LOGO/BASE.png)
+![](https://github.com/senselogic/BASE/blob/master/LOGO/base.png)
 
 # Base
 
