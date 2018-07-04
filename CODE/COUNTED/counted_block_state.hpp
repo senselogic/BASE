@@ -17,7 +17,7 @@ typedef UINT_32
 
 enum
 {
-    COUNTED_BLOCK_STATE_Decounted,
+    COUNTED_BLOCK_STATE_Deallocated,
     COUNTED_BLOCK_STATE_Allocated,
     COUNTED_BLOCK_STATE_Destructed,
     COUNTED_BLOCK_STATE_Count

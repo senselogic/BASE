@@ -59,7 +59,7 @@ struct COUNTED_BLOCK
 
     // ~~
 
-    VOID SetDecounted(
+    VOID SetDeallocated(
         VOID
         )
     {
@@ -70,7 +70,7 @@ struct COUNTED_BLOCK
             || State == COUNTED_BLOCK_STATE_Destructed
             );
 
-        State = COUNTED_BLOCK_STATE_Decounted;
+        State = COUNTED_BLOCK_STATE_Deallocated;
     }
 
     // ~~

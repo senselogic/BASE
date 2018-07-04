@@ -48,7 +48,7 @@ VOID COUNTED_FreeByteArray(
     block = COUNTED_BLOCK_GetFromByteArray( byte_array );
     DEBUG_Check( block->ItIsArray == it_is_array );
 
-    block->SetDecounted();
+    block->SetDeallocated();
 
     free( block );
 }
