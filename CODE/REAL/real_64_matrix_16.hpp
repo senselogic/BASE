@@ -215,7 +215,6 @@ struct REAL_64_MATRIX_16
         transformed_origin_vector.Z = WVector.Z * one_over_w_divisor;
     }
 
-
     // -- OPERATIONS
 
     VOID SetIdentity(

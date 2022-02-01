@@ -22,7 +22,6 @@ typedef float
 
 // -- CONSTANTS
 
-
 #define REAL_32_SmallestReal    1.175494351e-38f
 #define REAL_32_MinimumReal    -3.402823466e+38f
 #define REAL_32_MaximumReal    3.402823466e+38f

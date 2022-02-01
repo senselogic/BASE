@@ -15,7 +15,6 @@
 
 // -- FUNCTIONS
 
-
 #define NATIVE_ForEachElement( _value_, _range_ ) \
     \
     for ( auto && _value_ : _range_ )

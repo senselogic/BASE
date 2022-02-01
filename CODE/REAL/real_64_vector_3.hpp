@@ -125,7 +125,6 @@ struct REAL_64_VECTOR_3
         return REAL_64_VECTOR_3( -X, -Y, -Z );
     }
 
-
     // ~~
 
     const REAL_64 GetAxisDotProduct(

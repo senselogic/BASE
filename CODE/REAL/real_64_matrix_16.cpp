@@ -9,7 +9,6 @@
 #include "real_64_quaternion.hpp"
 #include "void.hpp"
 
-
 // == PUBLIC
 
 // -- OPERATIONS
