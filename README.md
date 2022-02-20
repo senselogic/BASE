@@ -2,11 +2,11 @@
 
 # Base
 
-Base C++ library.
+Base C++ and D library.
 
 ## Description
 
-As a basis for higher-level libraries, it provides simple cross-platform types for :
+As a common basis for higher-level libraries, it provides convenient cross-platform types and functions for :
 
 *   Scalars
 *   Strings
@@ -18,7 +18,7 @@ As a basis for higher-level libraries, it provides simple cross-platform types f
 
 ## Version
 
-1.0
+0.1
 
 ## Author
 
