@@ -2,7 +2,7 @@
 
 # Base
 
-Base C++ and D library.
+C++ and D base library.
 
 ## Description
 
